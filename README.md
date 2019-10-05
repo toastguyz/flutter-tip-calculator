@@ -1,16 +1,49 @@
-# flutter_tip_calculator
+# Flutter Tip Calculator
 
-A new Flutter application.
+> A flutter application for calculating tip with great UI design.
 
-## Getting Started
+Main Features Used :
+- Beautiful UI Design
+- Form-Field Validation
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| 1 |
+|------|
+<img src="./Screenshots/Tip_Calculator_1.jpg" width="300">|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Don't forget to star :star2: the repo if you like our work.:nerd_face:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Website :link:
+
+> [Toastguyz](www.toastguyz.com) - A programming tutorials website
+
+## Support on social media :thumbsup:
+
+>Follow us on our social media profiles to support us.
+
+- [Youtube Channel](https://www.youtube.com/toastguyz)
+- [Facebook Page](https://www.facebook.com/toastguyz)
+- [Twitter Account](https://www.twitter.com/toastguyz)
+- [Instagram Account](https://www.instagram.com/toastguyz)
+
+## Code Developer
+
+>### Jay Patel :fire:
+>Enthusiastic Android & Flutter App Developer.
+
+<a href="https://facebook.com/mungarajay1"><img src="./Screenshots/facebook.png" width="60"></a>
+<a href="www.linkedin.com/in/mungarajay"><img src="./Screenshots/linkedin.png" width="60"></a>
+<a href="https://twitter.com/jaymungara1"><img src="./Screenshots/twitter.png" width="60"></a>
+<a href="https://instagram.com/mungarajay1"><img src="./Screenshots/instagram.png" width="60"></a>
+<a href="https://stackoverflow.com/users/5715935/jay-mungara"><img src="./Screenshots/stackoverflow.png" width="60"></a>
+
+## ☕ Donate 
+
+> [Paypal](https://www.paypal.me/toastguyz)
+
+<a href="https://www.buymeacoffee.com/toastguyz">
+  <img width="200" alt="./Screenshots/buymecoffee.png" src="./Screenshots/buymecoffee.png">
+</a>
+
+Thanks for reaching out to us. :100: 
