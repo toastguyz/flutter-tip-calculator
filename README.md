@@ -1,4 +1,4 @@
-# Flutter Tip Calculator :india:
+# Flutter Tip Calculator
 
 > A flutter application for calculating tip with great UI design.
 
@@ -12,7 +12,7 @@ Main Features Used :
 |------|
 <img src="./Screenshots/Tip_Calculator_1.jpg" width="300">|
 
-Don't forget to star :star2: the repo if you like our work.:boom:
+Don't forget to star :star2: the repo if you like our work.:heart::blue_heart::yellow_heart::purple_heart::green_heart:
 
 ## Website :link:
 
